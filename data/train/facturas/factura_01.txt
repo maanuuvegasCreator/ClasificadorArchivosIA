@@ -1,0 +1,6 @@
+FACTURA
+Número: F2024-001
+Fecha: 15/07/2025
+Cliente: Empresa X
+Total: 1500 EUR
+Concepto: Suministro de Materiales

@@ -1,0 +1,7 @@
+INVOICE
+Invoice No.: INV-4567
+Date: 2025-07-20
+Vendor: Software Solutions Inc.
+Description: Annual Software License
+Amount Due: 5000 USD
+Payment Terms: Net 30

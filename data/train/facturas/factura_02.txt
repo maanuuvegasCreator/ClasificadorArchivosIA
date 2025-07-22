@@ -1,0 +1,6 @@
+FACTURA SIMPLIFICADA
+Tienda: Librería Central
+Fecha: 2025-07-21
+Producto: Bolígrafos (5 unidades)
+Precio Unitario: 2.50 EUR
+Total a Pagar: 12.50 EUR

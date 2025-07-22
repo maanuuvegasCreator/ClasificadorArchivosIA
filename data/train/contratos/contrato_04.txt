@@ -1,0 +1,5 @@
+Parties: Client Corp and Service Provider Ltd.
+Effective Date: August 1, 2025
+Scope of Work: Development of mobile application.
+Payment Schedule: Monthly installments.
+Governing Law: Law of Spain.

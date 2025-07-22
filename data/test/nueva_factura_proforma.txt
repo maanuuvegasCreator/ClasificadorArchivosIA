@@ -1,0 +1,1 @@
+FACTURA PROFORMA Cliente: Tienda XYZ Monto: 500 Euros Fecha: 21/07/2025 Artículos: Libros y revistas

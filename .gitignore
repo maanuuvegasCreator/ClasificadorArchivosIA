@@ -1,0 +1,18 @@
+# Archivos de entorno virtual
+venv/
+.venv/
+
+# Archivos de caché y compilados de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de registro y bases de datos locales
+*.log
+*.sqlite3
+*.db
+
+# Archivos específicos de entornos de desarrollo (VS Code, etc.)
+.vscode/
+.ipynb_checkpoints/
